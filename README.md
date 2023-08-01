@@ -1,5 +1,56 @@
-## 2023/7/30: refer to the following blog template, study how to use it
-## https://kitian616.github.io/jekyll-TeXt-theme/
+
+# 2023 goals: (2023/7/31 6:00 - 12/31 22:00) 
+# 8, 9, 10, 11, 12
+- [x] Run 10 kilometers in 1 hour 8 minutes (achieved on 2023/7/31)
+- [ ] Run 10 kilometers in 1 hour 2 minutes 
+- [x] 25 pull-ups in a row (achieved on 2023/7/31)
+- [ ] 30 pull-ups in a row 
+- [x] 220 sit-ups in a row (achieved on 2023/8/1)
+- [ ] 240 sit-ups in a row
+
+* [ ] 30 push-ups in a row
+* [ ] 50 dumbbell curls in a row
+## implement/reimplement: (deadline: 2023/12/31 22:00)  
+
+
+- [ ] https://github.com/rcore-os/rCore
+- [ ] https://github.com/rcore-os/arceos
+- [ ] [Re-implement xv6-riscv in Rust](https://github.com/Ko-oK-OS/xv6-rust)
+- [ ] rust
+  - [ ] https://doc.rust-lang.org/alloc/
+  - [ ] https://doc.rust-lang.org/core/
+  - [ ] https://github.com/rust-lang/rust-analyzer
+* [ ] xv6-riscv
+* [ ] riscv emulator
+- [ ] CPU (XiangShan, ysyx)
+  - [ ] https://github.com/OSCPU/NutShell
+- [ ] https://llvm.org/docs/
+  - [ ] https://libcxx.llvm.org/
+  - [ ] https://lld.llvm.org/
+  - [ ] https://clang.llvm.org/
+  - [ ] https://llvm.org/docs/CodingStandards.html
+- [ ] https://github.com/llvm/torch-mlir
+* [ ] TCP/IP
+- [ ] visualization/animation of data structures, algorithms and neural networks (good algorithms should make full use of computer architecture)
+  - [ ] https://playground.tensorflow.org/
+  - [ ] https://www.3blue1brown.com/
+  - [ ] [Animation engine for explanatory math videos](https://github.com/3b1b/manim)
+* [ ] C++ Standard Template Library (STL)
+- [ ] CPython
+- [ ] https://github.com/micropython/micropython
+- [ ] https://github.com/RustPython/RustPython
+* [ ] pybind11
+* [ ] numpy
+* [ ] https://github.com/sympy/sympy
+* [ ] QEMU
+* [ ] ROS2
+* [ ] pytorch
+* [ ] https://github.com/leanprover/lean4
+* [ ] https://github.com/pbrod/numdifftools
+* [ ] Quantum Computation and Quantum Information
+- [ ] https://github.com/ZhuYanzhen1/miniFOC
+
+
 ![Quotefancy-2001927-3840x2160](https://github.com/OccupyMars2025/OccupyMars2025/assets/31559413/94b2e890-f549-4130-a46d-d2ac22837f82)
 ![S-IC_engines_and_Von_Braun](https://github.com/OccupyMars2025/OccupyMars2025/assets/31559413/61595fc3-14db-45a8-9aad-4e6da4871bbd)
 # [Apollo Guidance Computer](https://en.wikipedia.org/wiki/Apollo_Guidance_Computer)
@@ -37,63 +88,6 @@
 
 ## In the CS world, everything you can think of must have been implemented by someone else
 ## Start by getting the code, building it, and playing with it. 
-
-# 2023 goals: (2023/7/31 6:00 - 12/31 22:00) 
-# 8, 9, 10, 11, 12
-- [x] Run 10 kilometers in 1 hour 8 minutes (achieved on 2023/7/31)
-- [ ] Run 10 kilometers in 1 hour 2 minutes 
-- [x] 25 pull-ups in a row (achieved on 2023/7/31)
-- [ ] 30 pull-ups in a row 
-- [x] 220 sit-ups in a row (achieved on 2023/8/1)
-- [ ] 240 sit-ups in a row
-
-* [ ] 30 push-ups in a row
-* [ ] 50 dumbbell curls in a row
-## implement/reimplement: (deadline: 2023/12/31 22:00)  
-
-- [ ] [rCore tutorial, deadline: 2023/8/16 22:00](https://github.com/xTransformer2025/reimplement-rCore-Tutorial-v3-from-scratch)
-  - [ ] ch4, deadline: 2023/7/27 8:00 - 8/2 8:00
-  - [ ] ch5
-  - [ ] ch6
-  - [ ] ch7
-  - [ ] ch8
-  - [ ] ch9
-- [ ] https://github.com/rcore-os/rCore
-- [ ] https://github.com/rcore-os/arceos
-- [ ] [Re-implement xv6-riscv in Rust](https://github.com/Ko-oK-OS/xv6-rust)
-- [ ] rust
-  - [ ] https://doc.rust-lang.org/alloc/
-  - [ ] https://doc.rust-lang.org/core/
-  - [ ] https://github.com/rust-lang/rust-analyzer
-* [ ] xv6-riscv
-* [ ] riscv emulator
-- [ ] CPU (XiangShan, ysyx)
-  - [ ] https://github.com/OSCPU/NutShell
-- [ ] https://llvm.org/docs/
-  - [ ] https://libcxx.llvm.org/
-  - [ ] https://lld.llvm.org/
-  - [ ] https://clang.llvm.org/
-  - [ ] https://llvm.org/docs/CodingStandards.html
-- [ ] https://github.com/llvm/torch-mlir
-* [ ] TCP/IP
-- [ ] visualization/animation of data structures, algorithms and neural networks (good algorithms should make full use of computer architecture)
-  - [ ] https://playground.tensorflow.org/
-  - [ ] https://www.3blue1brown.com/
-  - [ ] [Animation engine for explanatory math videos](https://github.com/3b1b/manim)
-* [ ] C++ Standard Template Library (STL)
-- [ ] CPython
-- [ ] https://github.com/micropython/micropython
-- [ ] https://github.com/RustPython/RustPython
-* [ ] pybind11
-* [ ] numpy
-* [ ] https://github.com/sympy/sympy
-* [ ] QEMU
-* [ ] ROS2
-* [ ] pytorch
-* [ ] https://github.com/leanprover/lean4
-* [ ] https://github.com/pbrod/numdifftools
-* [ ] Quantum Computation and Quantum Information
-- [ ] https://github.com/ZhuYanzhen1/miniFOC
 
 
 
